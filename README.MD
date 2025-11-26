@@ -4,6 +4,12 @@ A web-based application that predicts whether a given email or SMS message is **
 
 ---
 
+## Live Link
+
+https://email-spam-peycvgxri3ambvss4mhyni.streamlit.app/
+
+---
+
 ## 🌟 Features
 
 - **NLP Pipeline**: Preprocessing using tokenization, stop-word removal, stemming, and vectorization with TF-IDF.
