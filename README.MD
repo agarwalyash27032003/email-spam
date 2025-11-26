@@ -13,12 +13,6 @@ A web-based application that predicts whether a given email or SMS message is **
 
 ---
 
-## 🔗 Live Demo
-
-Check out the live version of the project here: [**Email/SMS Spam Predictor**](https://email-sms-spam-predictor.streamlit.app/)
-
----
-
 ## 🚀 How It Works
 
 1. Enter the text of the email or SMS in the input box.
